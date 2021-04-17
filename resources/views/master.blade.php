@@ -20,8 +20,20 @@
             height: 500px;
             padding-top: 100px;
         }
+        img.slider-img
+        {
+            height: 300px !important
+        }
+        .custom-product
+        {
+            height: 500px;
+        }
+        .slider-text
+        {
+            background-color: #35443585;
+        }
     </style>
-    <script>
+    <!--<script>
         $(document).ready(function()
         {
             $("button").click(function()
@@ -29,5 +41,5 @@
                 alert("Welcome!")
             })
         })
-    </script>
+    </script>-->
 </html>
