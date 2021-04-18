@@ -26,7 +26,7 @@
         }
         .custom-product
         {
-            height: 500px;
+            height: 600px;
         }
         .slider-text
         {
@@ -53,13 +53,4 @@
             padding-bottom: 20px
         }
     </style>
-    <!--<script>
-        $(document).ready(function()
-        {
-            $("button").click(function()
-            {
-                alert("Welcome!")
-            })
-        })
-    </script>-->
 </html>
