@@ -29,7 +29,7 @@ if(Session::has('user'))
         <button type="submit" class="btn btn-default">Submit</button>
       </form>
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="#">Cart({{$tot}})</a></li>
+        <li><a href="/cartlist">Cart({{$tot}})</a></li>
         @if(Session::has('user'))
         <li class="dropdown">
         <a class="dropdown-toggle" data-toggle="dropdown" href="#">{{Session::get('user')['name']}}<span class="caret"></span></a>
