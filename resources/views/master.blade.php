@@ -32,6 +32,20 @@
         {
             background-color: #35443585;
         }
+        .trending-img
+        {
+            height: 100px;
+        }
+        .trending-item
+        {
+            float: left;
+            width: 11%;
+            padding: 3px;
+        }
+        .detail-img
+        {
+            height: 300px;
+        }
     </style>
     <!--<script>
         $(document).ready(function()
