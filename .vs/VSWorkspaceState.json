@@ -1,16 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\app",
-    "\\app\\Http",
-    "\\app\\Http\\Controllers",
-    "\\app\\Models",
-    "\\database",
     "\\database\\migrations",
-    "\\resources",
-    "\\resources\\views",
-    "\\routes"
+    "\\resources\\views"
   ],
-  "SelectedNode": "\\resources\\views\\header.blade.php",
+  "SelectedNode": "\\.env",
   "PreviewInSolutionExplorer": false
 }
